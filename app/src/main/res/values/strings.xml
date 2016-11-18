@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="todo_add">Yapilacaklari Ekle</string>
+    <string name="add_text">Ne yapacaksin? Yazmadin</string>
+</resources>
